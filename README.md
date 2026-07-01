@@ -78,6 +78,7 @@ Whether it's developing web applications, solving coding challenges, or experime
 - Artificial Intelligence Fundamentals - By [IBM](https://www.credly.com/badges/f8ecff0b-bfb4-4153-a82c-b132b8573492)
 - Foundations of Prompt Engineering - By AWS Training & Certification
 - SQL (Intermediate) - By [HackerRank](https://www.hackerrank.com/certificates/480a4ad5da2d)
+- MongoDB Overview: Core Concepts and Architecture - By [MongoDB](https://www.credly.com/badges/12186f74-5ff6-4cc2-9062-3dedf357155e)
 
 ---
 
