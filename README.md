@@ -91,19 +91,24 @@ Whether it's developing web applications, solving coding challenges, or experime
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 Coding Profiles
+**GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousd3vil-ops&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousd3vil-ops&theme=tokyonight" />
 </p>
 
+**Leetcode Stats**
+<p align="center">
+  <a href="https://leetcode.com/u/vivek_pat3l/">
+    <img src="https://leetcard.jacoblin.cool/vivek_pat3l?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
 
 ## 📈 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anonymousd3vil-ops&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 
 ## 🎯 2026 Goals
 
