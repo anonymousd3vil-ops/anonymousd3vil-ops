@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science & Engineering Student | MERN Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+And+Engineering+Student;Generative+AI+Explorer;Problem+Solver;Always+Learning+Something+New!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Generative+AI+Explorer;Problem+Solver;Always+Learning+Something+New!&center=true&width=500&height=50">
 </p>
 
 ---
@@ -52,7 +52,7 @@ Whether it's developing web applications, solving coding challenges, or experime
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
