@@ -37,7 +37,7 @@ Whether it's developing web applications, solving coding challenges, or experime
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwindcss" />
 </p>
 
 ### Backend
